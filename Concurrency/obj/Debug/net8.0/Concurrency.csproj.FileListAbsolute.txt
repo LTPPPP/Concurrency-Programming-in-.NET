@@ -1,0 +1,14 @@
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\bin\Debug\net8.0\Concurrency.exe
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\bin\Debug\net8.0\Concurrency.deps.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\bin\Debug\net8.0\Concurrency.runtimeconfig.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\bin\Debug\net8.0\Concurrency.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\bin\Debug\net8.0\Concurrency.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\Concurrency.GeneratedMSBuildEditorConfig.editorconfig
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\Concurrency.AssemblyInfoInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\Concurrency.AssemblyInfo.cs
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\Concurrency.csproj.CoreCompileInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\Concurrency.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\refint\Concurrency.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\Concurrency.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\Concurrency.genruntimeconfig.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Concurrency\obj\Debug\net8.0\ref\Concurrency.dll

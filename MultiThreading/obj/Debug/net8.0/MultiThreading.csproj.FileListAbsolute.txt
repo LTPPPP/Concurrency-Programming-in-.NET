@@ -1,0 +1,14 @@
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.exe
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.deps.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.runtimeconfig.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfoInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfo.cs
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.csproj.CoreCompileInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\refint\MultiThreading.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.genruntimeconfig.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\MultiThreading\obj\Debug\net8.0\ref\MultiThreading.dll

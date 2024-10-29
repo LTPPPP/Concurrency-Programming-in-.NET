@@ -1,0 +1,14 @@
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\bin\Debug\net8.0\TimerCallback.exe
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\bin\Debug\net8.0\TimerCallback.deps.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\bin\Debug\net8.0\TimerCallback.runtimeconfig.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\bin\Debug\net8.0\TimerCallback.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\bin\Debug\net8.0\TimerCallback.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\TimerCallback.GeneratedMSBuildEditorConfig.editorconfig
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\TimerCallback.AssemblyInfoInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\TimerCallback.AssemblyInfo.cs
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\TimerCallback.csproj.CoreCompileInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\TimerCallback.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\refint\TimerCallback.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\TimerCallback.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\TimerCallback.genruntimeconfig.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\TimerCallback\obj\Debug\net8.0\ref\TimerCallback.dll

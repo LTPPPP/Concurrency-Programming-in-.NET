@@ -1,0 +1,14 @@
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\bin\Debug\net8.0\Synchronization.exe
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\bin\Debug\net8.0\Synchronization.deps.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\bin\Debug\net8.0\Synchronization.runtimeconfig.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\bin\Debug\net8.0\Synchronization.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\bin\Debug\net8.0\Synchronization.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\Synchronization.GeneratedMSBuildEditorConfig.editorconfig
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\Synchronization.AssemblyInfoInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\Synchronization.AssemblyInfo.cs
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\Synchronization.csproj.CoreCompileInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\Synchronization.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\refint\Synchronization.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\Synchronization.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\Synchronization.genruntimeconfig.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\Synchronization\obj\Debug\net8.0\ref\Synchronization.dll

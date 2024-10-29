@@ -1,0 +1,14 @@
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\bin\Debug\net8.0\ThreadPool.exe
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\bin\Debug\net8.0\ThreadPool.deps.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\bin\Debug\net8.0\ThreadPool.runtimeconfig.json
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\bin\Debug\net8.0\ThreadPool.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\bin\Debug\net8.0\ThreadPool.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\ThreadPool.AssemblyInfoInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\ThreadPool.AssemblyInfo.cs
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\ThreadPool.csproj.CoreCompileInputs.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\ThreadPool.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\refint\ThreadPool.dll
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\ThreadPool.pdb
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\ThreadPool.genruntimeconfig.cache
+E:\CN\FA24_K5\PRN212\DEMO\MultiThreading\ThreadPool\obj\Debug\net8.0\ref\ThreadPool.dll
